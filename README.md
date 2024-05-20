@@ -34,7 +34,7 @@ Set the values ​​of `model_path` and `tokenizer_path` in the ./configs/examp
 
 Run the model. For model training, use the following command
 ~~~
-python ./spert.py train --config configs/example_train_v1.conf
+python ./sinet.py train --config configs/example_train.conf
 ~~~
 
 The trained model is stored in .data/save/
@@ -44,7 +44,7 @@ The trained model is stored in .data/save/
 In order to evaluate the model, you need to modify the values ​​of `model_path` and `tokenizer_path` in ./configs/example_eval.conf to the specific storage location of the model, and then run the following command
 
 ~~~
-python ./spert.py eval --config configs/example_eval_v1.conf
+python ./sinet.py eval --config configs/example_eval.conf
 ~~~
 
 #### 1.3.3 Model Output
