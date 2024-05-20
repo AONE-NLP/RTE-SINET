@@ -74,20 +74,14 @@ If you want to switch different data sets for testing, you need to first train t
 ## Citation
 
 @inproceedings{luo-etal-2024-synergetic-interaction,
-    title = "Synergetic Interaction Network with Cross-task Attention for Joint Relational Triple Extraction",
-    author = "Luo, Da  and
-      Lin, Run  and
-      Liu, Qiao  and
-      Cai, Yuxiang  and
-      Liu, Xueyi  and
-      Gan, Yanglei  and
-      Hou, Rui",
-    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
-    month = may,
-    year = "2024",
-    address = "Torino, Italy",
-    publisher = "ELRA and ICCL",
-    url = "https://aclanthology.org/2024.lrec-main.1343",
-    pages = "15457--15468",
+    title = {Synergetic Interaction Network with Cross-task Attention for Joint Relational Triple Extraction},
+    author = {Luo, Da  and Lin, Run  and Liu, Qiao  and Cai, Yuxiang  and Liu, Xueyi  and Gan, Yanglei  and Hou, Rui},
+    booktitle = {Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+    month = {may},
+    year = {2024},
+    address = {Torino, Italy},
+    publisher = {ELRA and ICCL},
+    url = {https://aclanthology.org/2024.lrec-main.1343},
+    pages = {15457--15468}
 }
 
