@@ -72,7 +72,7 @@ If you want to switch different data sets for testing, you need to first train t
 `types_path` in each configuration file in ./configs/ to the corresponding data set location. , and `model_path`, the value of `tokenizer_path` is the position of the corresponding trained model.
 
 ## Citation
-
+```
 @inproceedings{luo-etal-2024-synergetic-interaction,
     title = {Synergetic Interaction Network with Cross-task Attention for Joint Relational Triple Extraction},
     author = {Luo, Da  and Lin, Run  and Liu, Qiao  and Cai, Yuxiang  and Liu, Xueyi  and Gan, Yanglei  and Hou, Rui},
@@ -84,4 +84,5 @@ If you want to switch different data sets for testing, you need to first train t
     url = {https://aclanthology.org/2024.lrec-main.1343},
     pages = {15457--15468}
 }
+```
 
